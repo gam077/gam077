@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Hi, there, l am Gammy! 
+Hi, there, l am Gamaliel! 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gam077&show_icons=true&theme=radical" />
 
